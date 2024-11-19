@@ -1,0 +1,11 @@
+{
+    "apiKey": "AIzaSyC7TiBlbY1jk0XxUArfvoYfERaVJAdGrlo",
+    "authDomain": "aidatalist.firebaseapp.com",
+    "databaseURL": "https://aidatalist-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "projectId": "aidatalist",
+    "storageBucket": "aidatalist.appspot.com",
+    "messagingSenderId": "529460513888",
+    "appId": "1:529460513888:web:cc0933081ad319c7380705",
+    "measurementId": "G-LFQYKR5HLF",
+    "servicesAcc": "servicesAcc.json" 
+}
